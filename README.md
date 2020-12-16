@@ -1,8 +1,8 @@
-### Hi there 👋
-## I'm currently a 3rd year student at the University of Houston
-## Mainly focused on learning algoritms/data structures and full stack web development
-## Contact information: Email - sethleake@hotmail.com
-### Look forward to working with you! :confetti_ball:
+## Hi there 👋
+### I'm currently a 3rd year student at the University of Houston
+### Mainly focused on learning algoritms/data structures and full stack web development
+### Contact information: Email - sethleake@hotmail.com
+# Look forward to working with you! :confetti_ball:
 
 <!--
 **smleake/smleake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

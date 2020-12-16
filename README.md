@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### I'm currently a 3rd year student at the University of Houston
-### Mainly focused on learning algoritms/data structures and full stack web development and open to collaborate on anything that expands my knowledge.
+### Mainly focused on learning algoritms/data structures and full stack web development and open to collaborate on anything that expands my knowledge. :notebook:
 ### Contact information: Email - sethleake@hotmail.com
 # Look forward to working with you! :confetti_ball:
 

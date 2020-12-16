@@ -1,4 +1,8 @@
 ### Hi there 👋
+I'm currently a 3rd year student at the University of Houston
+I'm mainly focused on learning algoritms/data structures and full stack web development
+My contact informtion: Email - sethleake@hotmail.com
+Look forward to working with you!
 
 <!--
 **smleake/smleake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

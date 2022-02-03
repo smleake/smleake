@@ -18,7 +18,7 @@
 [ttB]: ## "See footnotes for some of my favorite interactive data examples"
 [^1]: <a href="https://www.instagram.com/etinjcb/">Eitienne Jacob</a>, <a href="https://www.instagram.com/frenerdesign/">Julian Frener</a>, <a href="https://www.instagram.com/in.white.rooms_/">In White Rooms</a> + many more
 [^2]: <a href="https://pudding.cool/">The Pudding</a>, <a href="https://patatap.com/">Patatap</a>, Spotify Wrapped + innumerable others
-[^3]: <a href="https://en.wikipedia.org/wiki/120-cell">120-cell</a> (???)
+[^3]: <a href="https://en.wikipedia.org/wiki/120-cell">120-cell</a> (??? higher dimensional geometry is insane)
 <!--
 **smleake/smleake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

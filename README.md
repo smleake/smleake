@@ -11,7 +11,7 @@
 - spending time with my wonderful girlfriend Seung Eun (정승은 <3) and our pet squadron 
 - maintaining my health by consistently going to the gym (ideally)
 - attempting to make music (attempting)
-- being an affable fella
+- being an affable fella (definitively)
 ### Contact information: Email <img style="width:20px;" src="http://clipart-library.com/image_gallery/341274.png"/> - sethm.leake@gmail.com 
 ### Feel free to contact me regarding anything! Always open to start a conversation with anybody.<br>
 [ttA]: ## "See footnotes for some of my favorite inspos"

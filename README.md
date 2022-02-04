@@ -9,8 +9,8 @@
 #### When not trying hard to impress people with coding I enjoy: 
 - studying Korean (저는 세스 리크예요. 만나서 반가워요.) 
 - spending time with my wonderful girlfriend Seung Eun (정승은 <3) and our pet squadron 
-- maintaining my health by, ideally, consistently going to the gym (ideally)
-- attempting to make music
+- maintaining my health by consistently going to the gym (ideally)
+- attempting to make music (attempting)
 - being an affable fella
 ### Contact information: Email <img style="width:20px;" src="http://clipart-library.com/image_gallery/341274.png"/> - sethm.leake@gmail.com 
 ### Feel free to contact me regarding anything! Always open to start a conversation with anybody.<br>

@@ -1,5 +1,4 @@
 ## Hey what's up
-### I'm currently a 4th year student at the <a href="https://www.uh.edu/nsm/computer-science/">University of Houston</a>
 ### Prioritizing learning algorithms/data structures, full stack web development and translating that knowledge into
 
 ⎷ [**Art**][ttA] [^1] <br>
